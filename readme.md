@@ -1,4 +1,4 @@
-# CSV/PDF to JSONL Converter (Streamlit App)
+# CSV/PDF to JSONL Converter(Prompt-Completion Approach)
 
 ## Overview
 This Streamlit app allows you to convert both CSV and PDF files into JSONL format, specifically designed for creating prompt-completion pairs. These pairs are commonly used for natural language processing (NLP) tasks.
