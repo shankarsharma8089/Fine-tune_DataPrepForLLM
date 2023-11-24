@@ -8,7 +8,7 @@ This Streamlit app allows you to convert both CSV and PDF files into JSONL forma
 ### GPT (Generative Pre-trained Transformer) Series:
 - GPT-2
 - GPT-3
-- GPT-4 (if released in the future)
+- GPT-4 
 
 These models, developed by OpenAI, are known for their ability to generate coherent and contextually relevant text based on a given prompt.
 
