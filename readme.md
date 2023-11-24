@@ -3,6 +3,34 @@
 ## Overview
 This Streamlit app allows you to convert both CSV and PDF files into JSONL format, specifically designed for creating prompt-completion pairs. These pairs are commonly used for natural language processing (NLP) tasks.
 
+#Several language models use a prompt-completion approach for fine-tuning. Here are some well-known models that follow this paradigm:
+
+-GPT (Generative Pre-trained Transformer) Series:
+GPT-2
+GPT-3
+GPT-4 (if released in the future)
+These models, developed by OpenAI, are known for their ability to generate coherent and contextually relevant text based on a given prompt.
+
+-T5 (Text-To-Text Transfer Transformer):
+T5, developed by Google, is designed as a text-to-text model where both the input and output are treated as text strings. This allows for a unified approach to various natural language processing tasks.
+Babbage and Curie:
+
+-Babbage and Curie are models developed by EleutherAI. These models are part of the GPT-inspired language model series and are designed for large-scale language generation tasks.
+
+-InstructGPT:
+InstructGPT, also developed by OpenAI, is a variant of GPT-3 that is fine-tuned using an instruction-based approach. It is specifically trained to follow instructions in prompts.
+ChatGPT:
+
+-ChatGPT, another model from OpenAI, is fine-tuned for conversational interactions. While not explicitly prompt-completion, it shares similarities in handling user inputs as prompts and generating responses.
+
+
+
+
+
+
+
+
+
 ## Features
 - Upload CSV or PDF files for conversion.
 - Automatically detects the file type (CSV or PDF) and processes it accordingly.
